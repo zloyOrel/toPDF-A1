@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Create by epifancev 01.07.2024
+#Create  01.07.2024
 
 declare -r INPUT_DIR="/home/epic/tmp/in"
 declare -r OUTPUT_DIR="/home/epic/tmp/out"
